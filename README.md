@@ -2,59 +2,73 @@ magento-resources
 =================
 
 ## A list of learning resources &amp; tools for Magento developers
+@todo : check, sort and set text
 
- * http://alanstorm.com/category/magento
- * http://aschroder.com/category/magento/
- * http://blog.belvg.com/tag/magento-certification
- * http://demacmedia.com/category/magento-commerce/
- * http://ecomdev.org/
- * http://eschrade.com/page/category/magento-2/
- * http://inchoo.net/
- * http://www.nicksays.co.uk/magento/
- * http://www.excellencemagentoblog.com/
- * http://fabrizio-branca.de/magento.html
- * http://fishpig.co.uk/magento/tutorials/
- * https://gist.github.com/parhamr/6177160
- * https://github.com/colinmollenhour/
- * https://github.com/netz98/n98-magerun
- * https://github.com/rgranadino/Interactive-Magento-Console
- * http://magebase.com/
- * http://magedevguide.com/
- * http://magestudyguide.com/
- * http://magento-quickies.tumblr.com/
- * http://magento.stackexchange.com/
- * http://magentocommerce.com/certification/moderators-kit
- * http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento
- * http://magentocommerce.com/resources/magento-user-guide
- * http://magentocommerce.com/whitepaper/
- * http://nexcess.net/magento-best-practices-whitepaper
- * http://stackoverflow.com/questions/tagged/magento*
- * http://tweetorials.tumblr.com/
- * http://twitter.com/
-  * [@alanstorm](http://twitter.com/alanstorm)
-  * [@benmarks](http://twitter.com/benmarks)
-  * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
-  * [@monocat](http://twitter.com/monocat)
-  * [@vinaikopp](http://twitter.com/vinaikopp)
-
-### Presentations
-
----
-
-**["Scaling Magento"](https://docs.google.com/a/copiousinc.com/presentation/d/1rHM7LOfzgfol6FEijLjlCpTBPaYJlMbI-WPpZL59Dng/edit)**
-*Presented at MagentoLive UK 2013*
- * [Related gist](https://gist.github.com/parhamr/6177160)
- * Codebase analysis
- * Catalog description
- * Traffic examples
- * Listing of Magento modules used
- * Hardware information
-  * Configurations
-  * Performance (system, Redis, and MySQL)
-  * Utilization
- * Magento information
-  * Configurations (nginx, PHP, local.xml
-  * Virtual hosts
-
----
-   
+ * [Alan Storm](http://alanstorm.com/category/magento)
+ * [Ashley Schroder](http://aschroder.com/category/magento/)
+ * [BelVG](http://blog.belvg.com/tag/magento-certification)
+ * [Demac Media](http://demacmedia.com/category/magento-commerce/)
+ * [Ecomdev](http://ecomdev.org/)
+ * [ESchrade](http://eschrade.com/page/category/magento-2/)
+ * [Inchoo](http://inchoo.net/)
+ * [nicksays](http://www.nicksays.co.uk/magento/)
+ * [excellence magento blog](http://www.excellencemagentoblog.com/)
+ * [Fabrizio Branca](http://fabrizio-branca.de/magento.html)
+ * [Fishpig](http://fishpig.co.uk/magento/tutorials/)
+ * [Magebase](http://magebase.com/)
+ * [MageDevGuide](http://magedevguide.com/)
+ * [MageStudyGuide](http://magestudyguide.com/)
+ * [Magento Tumblr](http://magento-quickies.tumblr.com/)
+ * [](http://magento.stackexchange.com/)
+ * [](http://magentocommerce.com/certification/moderators-kit)
+ * [](http://magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento)
+ * [](http://magentocommerce.com/resources/magento-user-guide)
+ * [](http://magentocommerce.com/whitepaper/)
+ * [](http://nexcess.net/magento-best-practices-whitepaper)
+ * [](http://stackoverflow.com/questions/tagged/magento*)
+ * [](http://tweetorials.tumblr.com/)
+ * [](http://twitter.com/)
+ * [](http://codegento.com/)
+ * [](http://www.atwix.com/blog/)
+ * [](http://bloggento.fr/)
+ * [](http://www.blueacorn.com/)
+ * [](http://www.classyllama.com/blog)
+ * [](http://codegento.com/)
+ * [](http://www.ecomdev.org/blog)
+ * [](http://blog.chapagain.com.np/category/magento/)
+ * [](http://www.practicalecommerce.com/)
+ * [](http://www.fontis.com.au/blog)
+ * [](http://www.fragento.org/)
+ * [](http://inchoo.net/category/ecommerce/magento/)
+ * [](http://jacques.sh/search.html?tag=Magento)
+ * [](http://magebase.com/)
+ * [](http://magemojo.com/kbase/)
+ * [](http://www.magentix.fr/)
+ * [](http://magento-quickies.tumblr.com/)
+ * [](http://www.magentocommerce.com/blog)
+ * [](http://www.magentocommerce.com/boards/)
+ * [](http://www.blog.magepsycho.com/)
+ * [](http://www.magereverse.com/)
+ * [](http://blog.magestore.com/category/magento-tutorials/)
+ * [](http://www.magexpert.com/)
+ * [](http://maglife.co.uk/)
+ * [](http://www.mahigento.com/)
+ * [](http://code.marksserver.co.uk/category/magento/)
+ * [](http://www.martinez-frederic.fr/category/magento/)
+ * [](http://www.nosy-mena.com/blog/)
+ * [](http://www.pierrefay.fr/)
+ * [](https://www.sonassi.com/category/knowledge-base/magento-kb/)
+ * [](http://stackexchange.com/search?q=magento)
+ * [](http://stackoverflow.com/questions/tagged/magento?sort=votes&pagesize=50)
+ * [](http://blog.storybloks.com/)
+ * [](http://subesh.com.np/)
+ * [](http://www.westwideweb.com/wp/category/magento/)
+ * [](http://www.yireo.com/tutorials/magento)
+ * [@alanstorm](http://twitter.com/alanstorm)
+ * [@benmarks](http://twitter.com/benmarks)
+ * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
+ * [@monocat](http://twitter.com/monocat)
+ * [@vinaikopp](http://twitter.com/vinaikopp)
+ * [git parhamr](https://gist.github.com/parhamr/6177160)
+ * [git Colin Mollenhour](https://github.com/colinmollenhour/)
+ * [git netz98](https://github.com/netz98/) 
