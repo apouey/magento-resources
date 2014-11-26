@@ -68,6 +68,9 @@ magento-resources
  * [git netz98](https://github.com/netz98/)
  * [git Magento Hackathon](https://github.com/magento-hackathon)
 
+### gist
+ * [gist sebastienjean76](https://gist.github.com/sebastienjean76)
+ 
 ### twitter
  * [@alanstorm](http://twitter.com/alanstorm)
  * [@benmarks](http://twitter.com/benmarks)
