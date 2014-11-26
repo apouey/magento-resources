@@ -2,8 +2,7 @@ magento-resources
 =================
 
 ## A list of learning resources &amp; tools for Magento developers
-@todo : check, sort and set text
-
+### WWW
  * [Alanstorm](http://alanstorm.com/category/magento)
  * [Ashleyschroder](http://aschroder.com/category/magento/)
  * [Atwix](http://www.atwix.com/blog/)
@@ -62,13 +61,15 @@ magento-resources
  * [vireo](http://www.yireo.com/tutorials/magento)
  * [Westwideweb](http://www.westwideweb.com/wp/category/magento/)
 
+### git
+ * [git parhamr](https://gist.github.com/parhamr/6177160)
+ * [git Colin Mollenhour](https://github.com/colinmollenhour/)
+ * [git netz98](https://github.com/netz98/)
+ * [git Magento Hackathon](https://github.com/magento-hackathon)
+
+### twitter
  * [@alanstorm](http://twitter.com/alanstorm)
  * [@benmarks](http://twitter.com/benmarks)
  * [@IvanChepurnyi](http://twitter.com/IvanChepurnyi)
  * [@monocat](http://twitter.com/monocat)
  * [@vinaikopp](http://twitter.com/vinaikopp)
- 
- * [git parhamr](https://gist.github.com/parhamr/6177160)
- * [git Colin Mollenhour](https://github.com/colinmollenhour/)
- * [git netz98](https://github.com/netz98/)
- * [git Magento Hackathon](https://github.com/magento-hackathon)
