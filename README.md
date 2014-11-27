@@ -78,3 +78,9 @@ magento-resources
  * [@monocat](http://twitter.com/monocat)
  * [@vinaikopp](http://twitter.com/vinaikopp)
  * [@MariusStrajeru](https://twitter.com/MariusStrajeru)
+
+### youtube
+ * [Magentocommerce](https://www.youtube.com/user/magentocommerce)
+ * [Magento Fireside Chat - Testing Tools Series](http://www.youtube.com/playlist?list=PLTmla7LfXY9EmhsA9P955giIvlFzCetjb)
+ * [LevelUpTuts Magento Commerce Community Tutorials](https://www.youtube.com/playlist?list=PL3B0BAAF482B16EAB)
+ 
