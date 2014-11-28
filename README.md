@@ -25,6 +25,7 @@ magento-resources
  * [Magebase](http://magebase.com/)
  * [Magecert](http://magecert.com/)
  * [Magedevguide](http://magedevguide.com/)
+ * [Mage Karma](http://www.magekarma.com/)
  * [Magelife](http://maglife.co.uk/)
  * [Magemojo](http://magemojo.com/kbase/)
  * [Magento Commerce Certification Moderators Kit](http://magentocommerce.com/certification/moderators-kit)
@@ -83,4 +84,6 @@ magento-resources
  * [Magentocommerce](https://www.youtube.com/user/magentocommerce)
  * [Magento Fireside Chat - Testing Tools Series](http://www.youtube.com/playlist?list=PLTmla7LfXY9EmhsA9P955giIvlFzCetjb)
  * [LevelUpTuts Magento Commerce Community Tutorials](https://www.youtube.com/playlist?list=PL3B0BAAF482B16EAB)
+ * [Mage Titans](https://www.youtube.com/user/magetitans/feed)
+
  
