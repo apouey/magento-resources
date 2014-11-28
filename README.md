@@ -25,6 +25,7 @@ magento-resources
  * [Magebase](http://magebase.com/)
  * [Magecert](http://magecert.com/)
  * [Magedevguide](http://magedevguide.com/)
+ * [MageHero](http://magehero.com/)
  * [Mage Karma](http://www.magekarma.com/)
  * [Magelife](http://maglife.co.uk/)
  * [Magemojo](http://magemojo.com/kbase/)
