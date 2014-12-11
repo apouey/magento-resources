@@ -72,6 +72,9 @@ magento-resources
 
 ### gist
  * [gist sebastienjean76](https://gist.github.com/sebastienjean76)
+
+### slides
+ * [aoepeople](http://fr.slideshare.net/aoepeople/presentations)
  
 ### twitter
  * [@alanstorm](http://twitter.com/alanstorm)
