@@ -76,6 +76,8 @@ magento-resources
 ### slides
  * [aoepeople](http://fr.slideshare.net/aoepeople/presentations)
  
+### PDFs
+ * [5 Most Common Magento Coding Issues](http://info.magento.com/rs/magentocommerce/images/Conquer_the_5_Most_Common_Magento_Coding_Issues_to_Optimize_Your_Site_for_Performance.pdf)
 ### twitter
  * [@alanstorm](http://twitter.com/alanstorm)
  * [@benmarks](http://twitter.com/benmarks)
